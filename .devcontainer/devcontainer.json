@@ -1,0 +1,13 @@
+{
+    "name": "Default Codespace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                // Tus extensiones se sincronizarán automáticamente
+            ]
+        }
+    },
+    "settings": {
+        "remote.autoForwardPorts": true
+    }
+} 
