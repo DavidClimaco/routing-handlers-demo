@@ -3,7 +3,42 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                // Tus extensiones se sincronizarán automáticamente
+                "be5invis.vscode-custom-css",
+                "bradlc.vscode-tailwindcss",
+                "burkeholland.simple-react-snippets",
+                "codeium.codeium",
+                "dbaeumer.vscode-eslint",
+                "docker.docker",
+                "dsznajder.es7-react-js-snippets",
+                "ecmel.vscode-html-css",
+                "esbenp.prettier-vscode",
+                "formulahendry.code-runner",
+                "github.codespaces",
+                "github.copilot",
+                "github.copilot-chat",
+                "google.geminicodeassist",
+                "gruntfuggly.todo-tree",
+                "laravel.vscode-laravel",
+                "miguelsolorio.fluent-icons",
+                "miguelsolorio.symbols",
+                "ms-azuretools.vscode-docker",
+                "ms-ceintl.vscode-language-pack-es",
+                "ms-python.debugpy",
+                "ms-python.isort",
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-vscode-remote.remote-containers",
+                "ms-vscode.live-server",
+                "mtxr.sqltools",
+                "mtxr.sqltools-driver-mysql",
+                "oderwat.indent-rainbow",
+                "onecentlin.laravel5-snippets",
+                "rangav.vscode-thunder-client",
+                "redhat.java",
+                "ritwickdey.liveserver",
+                "sonarsource.sonarlint-vscode",
+                "subframe7536.custom-ui-style",
+                "xabikos.javascriptsnippets"
             ]
         }
     },
